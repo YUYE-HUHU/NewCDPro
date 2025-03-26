@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{28454336-A236-3E77-13FB-5AB2600D6578}</ProjectGuid>
+    <ProjectGuid>{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,7 +58,14 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CDGame\Scripts\Base\GameEntry.Builtin.cs" />
+    <Compile Include="Assets\CDGame\Scripts\Definition\DataStruct\BuildInfo.cs" />
     <Compile Include="Assets\Example\ProcedureExample.cs" />
+    <Compile Include="Assets\CDGame\Scripts\UI\UIBase\UIBase.cs" />
+    <Compile Include="Assets\CDGame\Scripts\Base\GameEntry.cs" />
+    <Compile Include="Assets\CDGame\Scripts\BuiltinData\BuiltinDataComponent.cs" />
+    <Compile Include="Assets\CDGame\Scripts\Base\GameEntry.Custom.cs" />
+    <Compile Include="Assets\CDGame\Scripts\UI\UpdateResourceForm.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GameFramework\Libraries\GameFramework.dll" />
@@ -399,20 +406,20 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.44f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="ReportGeneratorMerged">
-      <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="GameFramework">
       <HintPath>Assets\GameFramework\Libraries\GameFramework.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
       <HintPath>Assets\GameFramework\Libraries\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ReportGeneratorMerged">
+      <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1005,13 +1012,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="UnityGameFramework.Editor.csproj">
-      <Project>{072A7437-7C07-E0D2-8C77-855FDD04823F}</Project>
-      <Name>UnityGameFramework.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityGameFramework.Runtime.csproj">
-      <Project>{7BE855F0-E4EB-4D29-8E5B-AFCCAD396A09}</Project>
+      <Project>{01C0DA8E-D739-9815-D6BC-C16C6E5CB52D}</Project>
       <Name>UnityGameFramework.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityGameFramework.Editor.csproj">
+      <Project>{5524356A-E803-A20D-8348-241DE260A8CC}</Project>
+      <Name>UnityGameFramework.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

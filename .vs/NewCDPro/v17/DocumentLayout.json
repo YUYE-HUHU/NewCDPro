@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\ui\\uibase\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\ui\\uibase\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\builtindata\\builtindatacomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\builtindata\\builtindatacomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\ui\\updateresourceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\ui\\updateresourceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|f:\\unitypro\\calligraphydrawing\\newcdpro\\assets\\cdgame\\scripts\\definition\\datastruct\\buildinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\definition\\datastruct\\buildinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\base\\gameentry.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\base\\gameentry.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C0DA8E-D739-9815-D6BC-C16C6E5CB52D}|UnityGameFramework.Runtime.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\gameframework\\scripts\\runtime\\base\\gameentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C0DA8E-D739-9815-D6BC-C16C6E5CB52D}|UnityGameFramework.Runtime.csproj|solutionrelative:assets\\gameframework\\scripts\\runtime\\base\\gameentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\base\\gameentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\base\\gameentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\assets\\cdgame\\scripts\\base\\gameentry.builtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88013A2-97D0-EC24-7AEE-1DD1FB183F28}|Assembly-CSharp.csproj|solutionrelative:assets\\cdgame\\scripts\\base\\gameentry.builtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildInfo.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Definition\\DataStruct\\BuildInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\Definition\\DataStruct\\BuildInfo.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Definition\\DataStruct\\BuildInfo.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\Definition\\DataStruct\\BuildInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:05:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateResourceForm.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\UI\\UpdateResourceForm.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\UI\\UpdateResourceForm.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\UI\\UpdateResourceForm.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\UI\\UpdateResourceForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:51:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuiltinDataComponent.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\BuiltinData\\BuiltinDataComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\BuiltinData\\BuiltinDataComponent.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\BuiltinData\\BuiltinDataComponent.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\BuiltinData\\BuiltinDataComponent.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:47:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameEntry.Custom.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.Custom.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\Base\\GameEntry.Custom.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.Custom.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\Base\\GameEntry.Custom.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:45:11.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameEntry.Builtin.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.Builtin.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\Base\\GameEntry.Builtin.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.Builtin.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\Base\\GameEntry.Builtin.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:43:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameEntry.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\Base\\GameEntry.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\Base\\GameEntry.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\Base\\GameEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:41:17.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameEntry.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\GameFramework\\Scripts\\Runtime\\Base\\GameEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\GameFramework\\Scripts\\Runtime\\Base\\GameEntry.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\GameFramework\\Scripts\\Runtime\\Base\\GameEntry.cs",
+              "RelativeToolTip": "Assets\\GameFramework\\Scripts\\Runtime\\Base\\GameEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:39:57.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIBase.cs",
+              "DocumentMoniker": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\UI\\UIBase\\UIBase.cs",
+              "RelativeDocumentMoniker": "Assets\\CDGame\\Scripts\\UI\\UIBase\\UIBase.cs",
+              "ToolTip": "F:\\Unitypro\\CalligraphyDrawing\\NewCDPro\\Assets\\CDGame\\Scripts\\UI\\UIBase\\UIBase.cs",
+              "RelativeToolTip": "Assets\\CDGame\\Scripts\\UI\\UIBase\\UIBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:13:36.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
